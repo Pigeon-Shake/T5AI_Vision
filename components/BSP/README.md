@@ -1,0 +1,1 @@
+This directory contains driver files for basic peripherals, such as LED, KEY, etc.

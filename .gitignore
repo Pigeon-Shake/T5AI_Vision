@@ -1,0 +1,8 @@
+.build/
+dist/
+output/
+.cache/
+.vscode/
+*.log
+snap.png
+__pycache__/
